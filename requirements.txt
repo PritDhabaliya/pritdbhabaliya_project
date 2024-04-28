@@ -1,0 +1,2 @@
+Flask==2.0.1  # Adjust the version number as needed to match the one you're using
+flask_mysqldb==0.2.0  # MySQL database adapter for Flask
